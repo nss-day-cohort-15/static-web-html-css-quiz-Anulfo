@@ -1,0 +1,64 @@
+article {
+	width: 30%;
+	float: left;
+	border: 1px solid lightblue;
+	margin-right: 1em; 
+	margin-top: 1.5em;
+	margin-bottom: .5em;
+}
+
+h1 {
+	border: 1px dotted lightgrey;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-bottom: 1em;
+	padding-top: .7em;
+	display: block;
+	height: 2em;
+}
+
+.firstsec {
+	padding-top: .5em;
+}
+.secondsec {
+	padding: .5em .5em 0 .5em;
+	text-align: justify;
+}
+
+.thirdsec {
+	color: yellow;
+	background-color: grey;
+	margin-top: .5em;
+	padding-bottom: .2em;
+	padding-top: .2em;
+}
+
+h4 {
+	font-family: Arial, sans-serif, serif;
+	text-indent: .5em;
+	margin-bottom: 0;
+	font-weight: 600;
+}
+
+.explparg {
+	font-family: Arial, sans-serif;
+	font-size: .8em;
+	text-indent: 1em;
+	margin: 0;
+	font-weight: bolder;
+}
+
+.specfut {
+	font-size: .6em;
+	margin: 0;
+}
+
+#spcup {
+	margin-top: 0;
+}
+
+h1.onel {
+	padding-top: 1.2em;
+	padding-bottom: .5em
+}
