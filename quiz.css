@@ -18,15 +18,15 @@ h1 {
 	height: 2em;
 }
 
-.firstsec {
+.cerimg {
 	padding-top: .5em;
 }
-.secondsec {
+.descript {
 	padding: .5em .5em 0 .5em;
 	text-align: justify;
 }
 
-.thirdsec {
+.onstock {
 	color: yellow;
 	background-color: grey;
 	margin-top: .5em;
