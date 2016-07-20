@@ -2,9 +2,7 @@ article {
 	width: 30%;
 	float: left;
 	border: 1px solid lightblue;
-	margin-right: 1em; 
-	margin-top: 1.5em;
-	margin-bottom: .5em;
+	margin: 1.5em 1em .5em 1em;
 }
 
 h1 {
@@ -14,7 +12,6 @@ h1 {
 	margin-bottom: 0;
 	padding-bottom: 1em;
 	padding-top: .7em;
-	display: block;
 	height: 2em;
 }
 
@@ -34,6 +31,11 @@ h1 {
 	padding-top: .2em;
 }
 
+img {
+	width: 350px;
+	height: 350px;
+}
+
 h4 {
 	font-family: Arial, sans-serif, serif;
 	text-indent: .5em;
@@ -41,7 +43,7 @@ h4 {
 	font-weight: 600;
 }
 
-.explparg {
+.priceweight p {
 	font-family: Arial, sans-serif;
 	font-size: .8em;
 	text-indent: 1em;
@@ -54,11 +56,11 @@ h4 {
 	margin: 0;
 }
 
-#spcup {
+.spcup  {
 	margin-top: 0;
 }
 
-h1.onel {
+h1 {
 	padding-top: 1.2em;
 	padding-bottom: .5em
 }
